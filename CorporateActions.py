@@ -6,8 +6,8 @@ import sys
 from datetime import datetime
 
 # RSS Feed URL
-FEED_URL = "https://nsearchives.nseindia.com/content/RSS/Corporate_action.xml"
-FEED_NAME = "CorporateAction"
+FEED_URL = "https://nsearchives.nseindia.com/content/RSS/Insider_Trading.xml"
+FEED_NAME = "insider"
 
 # Telegram Bot Config
 BOT_TOKEN = '8018122133:AAEWglp9zI5CPMdaobF-t2NSAH_QDNPvSM'
