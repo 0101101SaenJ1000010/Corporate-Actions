@@ -10,7 +10,7 @@ FEED_URL = "https://nsearchives.nseindia.com/content/RSS/Insider_Trading.xml"
 FEED_NAME = "insider"
 
 # Telegram Bot Config
-BOT_TOKEN = '8018122133:AAEWglp9zI5CPMdaobF-t2NSAH_QDNPvSM'
+BOT_TOKEN = '8191097068:AAG1gA1xnhkLpghA_czR_z3ilN1jv5Hy6Mc'
 CHAT_ID = '5501599635'
 
 # Track sent announcements
